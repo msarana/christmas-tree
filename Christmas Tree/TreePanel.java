@@ -95,7 +95,7 @@ public class TreePanel extends JPanel implements ActionListener {
 		frame.setVisible(true);
 	}
 
-	public void paintComponent (Graphics g) {
+	public void paintComponent (Graphics g) { 
 		
 		super.paintComponent(g);
 		
